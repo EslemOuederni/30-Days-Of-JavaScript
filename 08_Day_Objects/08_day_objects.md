@@ -129,7 +129,7 @@ function letsLearnScope() {
   console.log(gravity)
 
 }
-// console.log(gravity), Uncaught ReferenceError: gravity is not defined
+// console.log(gravity), undefined
 
 if (true){
   var gravity = 9.81
